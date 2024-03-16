@@ -8,7 +8,8 @@ Import the math module to use the built-in functions for calculation.
 ### Step 2:
 Get the 2 points from the user.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  
+![formula](/formula.JPG)
 ### Step 4: 
 Print the distance.
 ### Step 5:
