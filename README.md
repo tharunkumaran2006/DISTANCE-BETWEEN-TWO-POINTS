@@ -24,7 +24,7 @@ d=(pow((x2-x1),2)+pow((y2-y1),2))
 print("{:.2f}".format(d**0.5))
 ```
 ### OUTPUT:
-![image](https://github.com/tharunkumaran2006/DISTANCE-BETWEEN-TWO-POINTS/assets/151625188/ff81c6b7-bb59-4e91-9cd2-49f11728c8e3)
+![alt text](<Screenshot 2024-04-03 093904.png>)
 
 
 ### RESULT:
